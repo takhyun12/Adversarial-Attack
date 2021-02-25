@@ -32,8 +32,11 @@
 ### Usage
 
 ```
-> Build Project
-> Run Project
+# Prediction
+> python CNN.py
+
+# Adversarial Attack
+> python hacked.py
 ```
 
 ---
