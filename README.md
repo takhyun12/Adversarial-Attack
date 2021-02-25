@@ -1,5 +1,5 @@
 # Adversarial Attack 
-### CNN(Convolutional Neural Network) 모델 대상 적대적사례 공격을 통한 인식영역의 오류 도출 PoC
+### CNN(Convolutional Neural Network) 모델 대상 Adversarial Attack을 통한 인식영역의 오류 도출 PoC
 
 ## Author: Tackhyun Jung
 
