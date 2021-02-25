@@ -36,7 +36,7 @@
 > python CNN.py
 
 # Adversarial Attack
-> python hacked.py
+> python hack.py
 ```
 
 ---
