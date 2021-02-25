@@ -1,5 +1,5 @@
 # Adversarial Attack 
-### 오픈소스 프로젝트 x64dbg(32bit, 64bit)에 로깅 기능을 추가함.
+### CNN(Convolutional Neural Network) 모델 대상 적대적사례 공격을 통한 인식영역의 오류 도출 PoC
 
 ## Author: Tackhyun Jung
 
